@@ -1,0 +1,95 @@
+h1{
+	font-size:45px;
+	font-family: "Raleway", serif;
+	font-weight: 400;
+	letter-spacing: 1px;
+	color: #0D2C40;
+	margin: 0;
+}
+h2{
+	font-size: 18px;
+	font-weight: 600px;
+	color: #0D2C40;
+	font-family: "Raleway", serif;
+	letter-spacing: 1px;
+
+
+}
+
+nav{
+
+	font-size:20px;
+	font-family: "Raleway", serif;
+	font-weight: 600;
+	letter-spacing: 1px;
+	background-color: #00A6B3;
+	padding: 20px 0 20px 0;
+}
+.last{
+	font-size: 16px;
+}
+
+ body{
+ 	text-align: center;
+ 	margin: 0;
+ }
+ header{
+ 	background-color: #F15B31;
+ 	padding: 30px 20px 30px 20px;
+ }
+  a{
+  	padding: 0 20px 0 20px;
+  	text-decoration: none;
+  	color: #F15B31;
+  	border-bottom: 2px solid transparent;
+
+
+  }
+  a:hover{
+  	border: 3px solid white;
+  }
+ p{
+ 	line-height: 26px;
+ 	font-size: 18px;
+ 	font-family: "Droid Serif";
+ }
+  main{
+  	width: 850px;
+  	margin: 35px auto 35px ;
+  }
+  img{
+  	margin:40px 8px 40px 8px;
+  }
+
+  footer{
+  	text-transform: uppercase;
+  	padding: 0 20px 0 20px;
+  	background-color: #0D2C40;
+  	color: white;
+  	font-size: 14px;
+  	letter-spacing: .08em;
+  	font-weight: 500;
+  }
+  .copyright{
+font-family:  "Raleway", serif;
+float: left;
+
+  }
+  .message{
+
+font-family: "Raleway", serif;
+float: right;
+  }
+  .clearfix:after {
+  visibility: hidden;
+  display: block;
+  content: " ";
+  clear: both;
+  height: 0;
+  font-size: 0;
+}
+
+.name {
+	color: #F15B31;
+	font-weight: 700;
+}
